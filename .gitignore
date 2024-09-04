@@ -1,0 +1,100 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+[Oo]bj/
+[Bb]in/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+NuGet.Config
+NuGetFallbackFolder/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Coverlet
+coverage.cobertura.xml
+coverage.json
+
+# Local History for JetBrains Rider
+.idea/.idea.history/
+
+# NCrunch
+*.ncrunch*
+nCrunchTemp_*
+
+# Tye
+.tye/
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.pidb
+*.pdb
+*.opendb
+*.dbmdl
+*.dbschema
+*.msscci
+*.suo
+
+# Visual Studio for Mac
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# ASP.NET Core
+*.db
+*.suo
+*.user
+*.userosscache
+*.vs/
+
+# Gradle
+.gradle/
+
+# JetBrains Rider
+.idea/
+
+# Mac OS X
+.DS_Store
+
+# Linux
+*~
